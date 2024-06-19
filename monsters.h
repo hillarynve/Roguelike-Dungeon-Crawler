@@ -1,4 +1,4 @@
-// updating changes - fixed - main update
+// updating changes - fixed - update
 
 #ifndef MONSTERS_H
 #define MONSTERS_H
